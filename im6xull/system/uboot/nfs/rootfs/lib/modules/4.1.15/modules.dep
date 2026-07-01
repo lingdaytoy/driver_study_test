@@ -1,0 +1,11 @@
+atomic.ko:
+leddriver.ko:
+mutex.ko:
+beep.ko:
+spinlock.ko:
+semaphore.ko:
+newchrled.ko:
+key.ko:
+chrdevbase.ko:
+dtsled.ko:
+gpioled.ko:

@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "module.h": "c",
+        "init.h": "c",
+        "uaccess.h": "c",
+        "cstdlib": "c"
+    }
+}

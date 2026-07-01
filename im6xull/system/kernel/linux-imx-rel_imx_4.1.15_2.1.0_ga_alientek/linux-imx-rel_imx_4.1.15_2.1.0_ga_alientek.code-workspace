@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mount.h": "c",
+			"sched.h": "c",
+			"fs.h": "c",
+			"slab.h": "c",
+			"of.h": "c",
+			"kmap_types.h": "c"
+		}
+	}
+}
